@@ -2,6 +2,11 @@
 
 I'd had a [M5Cardputer](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3) on a door frame, idling for 6 months. It was time to do something with it.
 
+This is a mash-up of the following examples:
+
+- Sqlite3 for ESP32: https://github.com/siara-cc/esp32_arduino_sqlite3_lib/tree/master/examples
+- Cardputer basic examples: https://github.com/m5stack/M5Cardputer/tree/master/examples/Basic
+
 ## Getting this to run
 
 For hardware, you will need:
