@@ -1,6 +1,6 @@
 # M5Cardputer pocket translator (de-en)
 
-I'd had a M5Cardputer on a door frame, idling for 6 months. It was time to do something with it.
+I'd had a [M5Cardputer](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3) on a door frame, idling for 6 months. It was time to do something with it.
 
 ## Getting this to run
 
@@ -70,7 +70,7 @@ Add both files to your micro SD card, and put it into your Cardputer.
 
 ## Usage
 
-- The only mode is German - English. 
+- The only mode is German - English.
 - Type any word, there is no need to capitalise the first letter. So, query for `vogel` when searching for `Vogel`.
 - Write `.vowel` (as in `.o`) instead of umlauts. So, query for `fl.ote` when searching for `Flöte`.
 - Write `ss` instead of `ß`. So, query for `strasse` when searching for `Straße`.
